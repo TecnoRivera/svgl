@@ -15,7 +15,7 @@
       url: '/api',
       icon: CloudyIcon,
       external: false,
-      label: "Go to the SVGL's API section"
+      label: "Go to the SVGL's API sectionsss"
     },
     {
       name: 'Extensions',
